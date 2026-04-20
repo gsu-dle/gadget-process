@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "db7167cb7f10facd3b1e60e534aa7cb1",
+    "content-hash": "5ef580d5cd5265c2341a8805a68ce5c4",
     "packages": [
         {
             "name": "gsu-dle/gadget-core",
@@ -13,12 +13,6 @@
                 "type": "git",
                 "url": "https://github.com/gsu-dle/gadget-core.git",
                 "reference": "d9884bfc076ed582c9f3cdfddd0527e19b897289"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/gadget-core/zipball/d9884bfc076ed582c9f3cdfddd0527e19b897289",
-                "reference": "d9884bfc076ed582c9f3cdfddd0527e19b897289",
-                "shasum": ""
             },
             "require": {
                 "ext-json": "*",
@@ -67,12 +61,6 @@
                 "type": "git",
                 "url": "https://github.com/gsu-dle/symfony-bundle.git",
                 "reference": "1d20ecbbbb3ef40d0e9e2504348c59a86df291c9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/symfony-bundle/zipball/1d20ecbbbb3ef40d0e9e2504348c59a86df291c9",
-                "reference": "1d20ecbbbb3ef40d0e9e2504348c59a86df291c9",
-                "shasum": ""
             },
             "require": {
                 "php": "^8.1",
